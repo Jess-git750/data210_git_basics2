@@ -2,39 +2,39 @@
 
 ___
 
-**cd : change directory
+**cd {}** : change directory
 
-cd / to go back in previous directory
+**cd** to go back in previous directory
 
-cd .. : Move back in parent directory
+**cd ..** : Move back in parent directory
 
-touch {name file} : will create a blank file
+**touch {name file}** : will create a blank file
 
-mkdir {folder name}: create new folder
+**mkdir {folder name}**: create new folder
 
-history : view history of most recently type commands
+**history** : view history of most recently type commands
 
-ls: shows content
+**ls**: shows content
 
-ls -l: show more about permissions, and other info
+**ls -l**: show more about permissions, and other info
 
-ls -la: same but with hidden files
+**ls -la**: same but with hidden files
 
-pwd: print working directory
+**pwd**: print working directory
 
-cp: copy file
+**cp**: copy file
 
-mv: move file to another directory
+**mv**: move file to another directory
 
-rm: remove file or directory
+**rm**: remove file or directory
 
-cat: allows reading or working on a file
+**cat**: allows reading or working on a file
 
-grep: allows searching contents of file or folder
+**grep**: allows searching contents of file or folder
 
-chmod: transform a file to execute
+**chmod**: transform a file to execute
 
-wc: word count**
+**wc**: word count**
 
 
 
