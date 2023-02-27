@@ -31,3 +31,6 @@ If you have any problems, questions, ideas or suggestion please contact us on ht
 
 
 Send us a line https://thisisnotreal.uk/mail/
+
+
+*Thank you for your support*
