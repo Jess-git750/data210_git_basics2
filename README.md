@@ -12,7 +12,7 @@ ___
 
 **git commit -m “message here”** : to commit to local server before being pushed
 
-**git push -u origin main **: to push to Github repository
+**git push -u origin main ** : to push to Github repository
 
 **git checkout main** : main branch is set up to track branch**
 
