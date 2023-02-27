@@ -1,0 +1,49 @@
+#BASH UNIX COMMANDS
+
+___
+
+**cd : change directory
+
+cd / to go back in previous directory
+
+cd .. : Move back in parent directory
+
+touch {name file} : will create a blank file
+
+mkdir {folder name}: create new folder
+
+history : view history of most recently type commands
+
+ls: shows content
+
+ls -l: show more about permissions, and other info
+
+ls -la: same but with hidden files
+
+pwd: print working directory
+
+cp: copy file
+
+mv: move file to another directory
+
+rm: remove file or directory
+
+cat: allows reading or working on a file
+
+grep: allows searching contents of file or folder
+
+chmod: transform a file to execute
+
+wc: word count**
+
+
+
+##CONTACT
+
+If you have any problems, questions, ideas or suggestion please contact us on https://thisisnotreal.uk/mail/
+
+
+##SECURITY PROBLEMS
+
+Send us a line https://thisisnotreal.uk/mail/
+
