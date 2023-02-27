@@ -14,7 +14,7 @@ ___
 
 **git push -u origin main **: to push to Github repository
 
-**git checkout main**: main branch is set up to track branch**
+**git checkout main** : main branch is set up to track branch**
 
 **git pull** : will download the content from repository on local repository
 
